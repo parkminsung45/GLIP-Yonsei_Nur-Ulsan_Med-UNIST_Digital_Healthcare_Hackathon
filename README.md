@@ -1,4 +1,4 @@
-# GLIP (Yonsei UNIV. Nursing - Ulsan Univ. Med - UNIST Digital Healthcare Hackathon
+# GLIP (Yonsei UNIV. Nursing - Ulsan Univ. Med - UNIST Digital Healthcare Hackathon)
 
 > **While you're on it, and after you stop.**  
 > An avatar-based self-care concept for people using GLP-1 medications.
